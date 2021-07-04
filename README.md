@@ -18,8 +18,7 @@
 
 <p align="center"><img src="https://uploads-ssl.webflow.com/60df3f87e49b4c557421044a/60df48d5365ff24588fb5941_Frame%203.png" /></p>
 
-This project aims to pool money amongst friends without any hassle or paperwork. By eliminating the need to nudge your buddies to pay again for your Netflix Plans, Chipppin simply promotes more group contributions, that are easy, fast and reliable.
-
+Easy, Fast and Realiable... Chippin aims to simplify group payments removing any easing out social obligations when pooling in some bucks. This project aims to pool money among friends without any hassle or paperwork. By eliminating the need to nudge your buddies to pay again for your Netflix Plans, we build a cohesive environment for your group to have fun.
 
 <!-- LICENSE -->
 ## License
