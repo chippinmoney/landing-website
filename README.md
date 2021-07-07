@@ -6,10 +6,17 @@
   </a>
 
   <h3 align="center">Chippin Club</h3>
+
   <p align="center">
     making group payments easier
     <br />
+    <a href="https://github.com/chippinmoney/docs/blob/main/README.md"><strong>API Docs »</strong></a>  ·
+    <a href="https://github.com/chippinmoney/backend/blob/main/api_reference/api.pdf"><strong>API Reference »</strong></a>
+    <br />
+    <br />
     <a href="https://www.chippin.club/">Website</a>
+    ·
+    <a href="https://github.com/chippinmoney/backend/issues">Report Issues</a>
   </p>
 </p>
 
