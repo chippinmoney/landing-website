@@ -16,7 +16,7 @@
     <br />
     <a href="https://www.chippin.club/">Website</a>
     ·
-    <a href="https://github.com/chippinmoney/backend/issues">Report Issues</a>
+    <a href="https://github.com/chippinmoney/landing-website/issues">Report Issues</a>
   </p>
 </p>
 
